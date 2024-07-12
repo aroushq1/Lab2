@@ -1,9 +1,10 @@
+import java.util.ArrayList;
 
-public class Application {
 
-	public static void main(String[] args) {
-		System.out.println("Hello, World!");
 
-	}
-
+public interface Application {
+	void run();
+    void manageClient(ArrayList<Client> clients);
+    void managePet(ArrayList<Pet> pets);
+    // Other methods for managing bookings, pet care profiles, etc.
 }
