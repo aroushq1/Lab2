@@ -19,11 +19,11 @@ Welcome to YYC Pet Resort management system!
 ======= Menu ======= 
 
 1. Manage Client
-     Add New Client
-      Enter client name
-      Enter client address
-      Enter client phone number
-    Update Client
+     - Add New Client
+      - Enter client name
+      - Enter client address
+      - Enter client phone number
+    - Update Client
       Update existing client details
     Remove Client
       Remove a client from the system
@@ -64,6 +64,8 @@ Welcome to YYC Pet Resort management system!
     Invoices
       Enter the number of services used
       Print invoice with total amount and payment ID
+
+   
 11. Manage Staff
     Add Staff
       Enter staff name
